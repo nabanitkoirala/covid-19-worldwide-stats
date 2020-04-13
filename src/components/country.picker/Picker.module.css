@@ -1,13 +1,12 @@
 .formcontrol{
     background-color: rgb(200, 231, 152);
-    margin-left: 330px;
-    margin-top: 5px;
-}
-.form{
-    margin-left: 330px;
+    
+   
 }
 .stats{
-    margin-top: 5px;
-    margin-bottom: 5px;
-    color: rgb(23, 5, 58);
+    text-align: center;
+}
+.form{
+    
+    text-align: center;
 }

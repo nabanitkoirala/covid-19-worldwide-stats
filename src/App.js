@@ -39,7 +39,9 @@ handleCountryChange= async(country)=>{
       <div className={styles.container}>
         <div className="row">
         <Cards data={data}/><br />
+        
         <Picker className={styles.picker} handleCountryChange={this.handleCountryChange}/>
+        
         <Country className="country" data={datas}/>
         </div>
       </div>
